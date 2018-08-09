@@ -10,10 +10,10 @@
 /* https://coolors.co/36151e-839791-593f62-e3b23c-edebd7 */
 
 :root {
-    --primaryDark: #36151E;
+    --primaryDark: rgb(241, 3, 67);
     --primaryLight: #EDEBD7;
-    --accent: #E3B23C;
-    --alternate: #593F62;
+    --accent: rgb(0, 0, 0);
+    --alternate: rgb(63, 82, 98);
     --addedPadding: 10px;
 }
 
